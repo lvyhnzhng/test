@@ -24,4 +24,6 @@
 - git merge xxx (current branch merge xxx branch at local)
 - git pull (git fetch from repository at local + git merge it at local)
 
+## download a project from repository
+- git clone 
 
